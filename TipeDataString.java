@@ -3,7 +3,7 @@ public class TipeDataString {
         //Perbedaan primitive dan non primitive
 
         String firstName = "Rio";
-        String lasttName = "saputra";
+        String lastName = "saputra";
 
         //Concat
 
